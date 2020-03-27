@@ -14,13 +14,6 @@
             "Shipu\\BackpackExtend\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "dont-discover": [
-                "backpack/crud"
-            ]
-        }
-    },
     "minimum-stability": "dev",
     "require": {}
 }
