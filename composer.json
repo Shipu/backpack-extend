@@ -9,6 +9,11 @@
             "email": "shipuahamed01@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Shipu\\BackpackExtend\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
