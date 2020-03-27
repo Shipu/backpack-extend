@@ -1,0 +1,14 @@
+{
+    "name": "shipu/backpack-extend",
+    "description": "laravel backpack extend",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shipu Ahamed",
+            "email": "shipuahamed01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
